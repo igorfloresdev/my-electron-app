@@ -1,0 +1,26 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "Project from electronjs tutorial",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorfloresdev/my-electron-app.git"
+  },
+  "keywords": [
+    "electron",
+    "app"
+  ],
+  "author": "igorfloresdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorfloresdev/my-electron-app/issues"
+  },
+  "homepage": "https://github.com/igorfloresdev/my-electron-app#readme",
+  "devDependencies": {
+    "electron": "^30.0.3"
+  }
+}
